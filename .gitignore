@@ -1,0 +1,29 @@
+# Build artifacts
+target/
+*.class
+*.jar
+!lib/*.jar
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Amazon Q CLI files
+.amazonq/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
