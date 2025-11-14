@@ -18,9 +18,6 @@ Thumbs.db
 *.swo
 *~
 
-# Amazon Q CLI files
-.amazonq/
-
 # Logs
 *.log
 
